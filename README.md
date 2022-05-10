@@ -1,1 +1,1 @@
-# Temperature-Prediction
+# Temperature-Prediction using Linear Regression
